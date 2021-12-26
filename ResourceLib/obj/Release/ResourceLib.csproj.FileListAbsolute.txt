@@ -1,0 +1,36 @@
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\obj\Release\Vestris.ResourceLib.pdb
+D:\Téléchargements\resourcelib-master\Source\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher - Copie\ResourceLib\obj\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\obj\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher0\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\obj\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher - DecryptString\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\obj\Release\Vestris.ResourceLib.pdb
+D:\Documents\Bitbucket\DotNetPatcher\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.XML
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.dll
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\bin\Release\Vestris.ResourceLib.pdb
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\obj\Release\ResourceLib.csprojResolveAssemblyReference.cache
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\obj\Release\Vestris.ResourceLib.dll
+E:\PERSO\PROG\PROJETS\_BITBUCKET 20181202\VS2017\DotNetPatcher\ResourceLib\obj\Release\Vestris.ResourceLib.pdb

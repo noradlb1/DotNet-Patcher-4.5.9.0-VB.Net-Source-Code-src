@@ -1,0 +1,45 @@
+D:\DotNet Patcher - Copie\Helper\bin\Debug\Helper.dll
+D:\DotNet Patcher - Copie\Helper\bin\Debug\Helper.pdb
+D:\DotNet Patcher - Copie\Helper\obj\Debug\Helper.vbprojResolveAssemblyReference.cache
+D:\DotNet Patcher - Copie\Helper\obj\Debug\Helper.Resources.resources
+D:\DotNet Patcher - Copie\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\DotNet Patcher - Copie\Helper\obj\Debug\Helper.dll
+D:\DotNet Patcher - Copie\Helper\obj\Debug\Helper.pdb
+D:\_BITBUCKET\DotNetPatcher\Helper\bin\Debug\Helper.dll
+D:\_BITBUCKET\DotNetPatcher\Helper\bin\Debug\Helper.pdb
+D:\_BITBUCKET\DotNetPatcher\Helper\bin\Debug\Mono.Cecil.dll
+D:\_BITBUCKET\DotNetPatcher\Helper\obj\Debug\Helper.vbprojResolveAssemblyReference.cache
+D:\_BITBUCKET\DotNetPatcher\Helper\obj\Debug\Helper.Resources.resources
+D:\_BITBUCKET\DotNetPatcher\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\_BITBUCKET\DotNetPatcher\Helper\obj\Debug\Helper.dll
+D:\_BITBUCKET\DotNetPatcher\Helper\obj\Debug\Helper.pdb
+D:\_BITBUCKET\DotNet Patcher\Helper\bin\Debug\Helper.dll
+D:\_BITBUCKET\DotNet Patcher\Helper\bin\Debug\Helper.pdb
+D:\_BITBUCKET\DotNet Patcher\Helper\bin\Debug\Mono.Cecil.dll
+D:\_BITBUCKET\DotNet Patcher\Helper\obj\Debug\Helper.Resources.resources
+D:\_BITBUCKET\DotNet Patcher\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\_BITBUCKET\DotNet Patcher\Helper\obj\Debug\Helper.dll
+D:\_BITBUCKET\DotNet Patcher\Helper\obj\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\bin\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\bin\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\bin\Debug\Mono.Cecil.dll
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\obj\Debug\Helper.vbprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\obj\Debug\Helper.Resources.resources
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\obj\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher - Copie\Helper\obj\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\bin\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\bin\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\bin\Debug\Mono.Cecil.dll
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\obj\Debug\Helper.vbprojResolveAssemblyReference.cache
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\obj\Debug\Helper.Resources.resources
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\obj\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher0\Helper\obj\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher\Helper\bin\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher\Helper\bin\Debug\Helper.pdb
+D:\Documents\Bitbucket\DotNetPatcher\Helper\bin\Debug\Mono.Cecil.dll
+D:\Documents\Bitbucket\DotNetPatcher\Helper\obj\Debug\Helper.Resources.resources
+D:\Documents\Bitbucket\DotNetPatcher\Helper\obj\Debug\Helper.vbproj.GenerateResource.Cache
+D:\Documents\Bitbucket\DotNetPatcher\Helper\obj\Debug\Helper.dll
+D:\Documents\Bitbucket\DotNetPatcher\Helper\obj\Debug\Helper.pdb
